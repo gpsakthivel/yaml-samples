@@ -1,0 +1,9 @@
+customer :
+  name : sakthi
+  age : 24
+  profile :
+    designation : engineer
+    department : electronics
+  addresses :
+  - Chennai
+  - Madurai
